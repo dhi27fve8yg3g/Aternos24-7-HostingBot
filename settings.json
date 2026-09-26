@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "lookat_bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "copsmc.aternos.me",
+    "port": 55674,
     "version": "",
     "try-creative": false
   },
